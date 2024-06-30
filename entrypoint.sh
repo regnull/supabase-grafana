@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+set -ex
 
 cp /etc/prometheus/prometheus.yml.tpl /etc/prometheus/prometheus.yml
 
